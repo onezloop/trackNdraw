@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 400" fill="none" stroke="#1a1a1a" stroke-width="7" stroke-linecap="round" stroke-linejoin="round">
+  <path d="M200,30 C118,42 42,100 42,162 C42,222 118,255 176,280 C150,225 140,112 200,30 Z" fill="#ffd93d" />
+  <path d="M200,30 C282,42 358,100 358,162 C358,222 282,255 224,280 C250,225 260,112 200,30 Z" fill="#54a0ff" />
+  <path d="M200,30 C140,112 150,225 176,280 L224,280 C250,225 260,112 200,30 Z" fill="#ff6b6b" />
+  <rect x="182" y="276" width="36" height="20" fill="#ffb454" />
+  <line x1="180" y1="292" x2="164" y2="322" />
+  <line x1="192" y1="294" x2="186" y2="322" />
+  <line x1="208" y1="294" x2="214" y2="322" />
+  <line x1="220" y1="292" x2="236" y2="322" />
+  <rect x="158" y="320" width="84" height="48" rx="8" fill="#8d6e63" />
+  <line x1="158" y1="344" x2="242" y2="344" />
+  <line x1="186" y1="320" x2="186" y2="368" />
+  <line x1="214" y1="320" x2="214" y2="368" />
+  <circle cx="62" cy="330" r="26" fill="#ffffff" />
+  <circle cx="97" cy="345" r="21" fill="#ffffff" />
+  <circle cx="338" cy="330" r="26" fill="#ffffff" />
+  <circle cx="303" cy="345" r="21" fill="#ffffff" />
+</svg>
