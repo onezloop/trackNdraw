@@ -16,13 +16,16 @@ Works best on a phone or tablet, propped up over a sheet of paper.
    default, pointed at whatever is in front of it.
 2. **Put a blank sheet of paper** under the camera so the paper fills most
    of the screen.
-3. **Tap the 🎨 button** to open the picture picker, then tap a picture from
-   the gallery — or tap **Upload** to trace your own image. The picker
-   closes on its own once you pick one.
+3. **Tap the 🎨 button** to open the picture picker. Pick the age group —
+   **Under 5**, **Under 10** or **Under 15** — and tap a picture from the
+   gallery, or tap **Upload** to trace your own image. The picker closes on
+   its own once you pick one.
 4. **Line the picture up with the paper.** Drag the picture with one finger
-   to move it, pinch with two fingers to resize it (mouse-drag and
-   scroll-wheel on a laptop). Double-tap it, or tap the ⊙ button, to snap it
-   back to the middle.
+   to move it, and pinch with two fingers to resize *and rotate* it — twist
+   the two fingers to turn the picture to any angle before you start
+   tracing. On a laptop, drag with the mouse, scroll to resize and
+   **Shift + scroll** to rotate. Double-tap the picture, or tap the ⊙
+   button, to snap it back to the middle at its original size and angle.
 5. **Adjust "Picture fade"** in the 🎨 panel until you can see both the
    picture and your pencil lines clearly.
 6. **Trace the lines on the paper** with a pencil, following the picture on
@@ -36,8 +39,14 @@ the **💡** button turns on the phone's flashlight if the paper is in shadow
 
 - Live camera view (defaults to the rear/environment camera, with a button
   to flip to the front camera)
-- A gallery of 28 original, colorful line-art pictures to trace
+- A gallery of 84 colorful pictures to trace, grouped into three age bands with
+  28 pictures each — **Under 5** (big, simple shapes), **Under 10** (more
+  detailed) and **Under 15** (intricate, detailed artwork). The Under 5 and
+  Under 10 sets are original art; the Under 15 set is public-domain (CC0)
+  artwork — see [CREDITS.md](./CREDITS.md)
 - Upload your own image to trace instead
+- Move, resize and rotate the picture over the paper with one- and two-finger
+  gestures
 - A slider to adjust how transparent the picture is over the camera feed
 - Flashlight toggle when the device/browser supports it
 - Zoom in/out on the camera (+/- buttons, or mouse-wheel/trackpad on
